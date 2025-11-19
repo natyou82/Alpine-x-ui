@@ -5,6 +5,7 @@ yellow='\033[0;33m'
 plain='\033[0m'
 echo -e "${green}Alpine-x-ui 安装脚本v0.4 "
 echo -e "${green}项目地址：https://github.com/Lynn-Becky/Alpine-x-ui"
+echo -e "${red}注意！由于F大x-ui已经停止更新，目前面板已经无法适应新版的xray内核的部分内容，本项目即日起归档。同时为了面板安全，请激活tls以保证安全，或使用他人基于3x-ui开发的脚本，脚本推荐：https://github.com/Lynn-Becky/Alpine-x-ui"
 read -p "回车键继续..."
 echo -e "x-ui install for alpine"
 
